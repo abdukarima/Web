@@ -273,12 +273,8 @@ header nav ul li a {
 }
 
 #services .box img {
-  height: 65px;
+  height: 100px;
   margin-bottom: 2rem;
-}
-
-#services .box h4 {
-  color: #fff;
 }
 
 #trainers {
@@ -307,14 +303,6 @@ header nav ul li a {
 #trainers-slider p {
   color: #fff;
   opacity: 0.6;
-}
-
-#trainers-slider .slick-prev {
-  left: -30px;
-}
-
-#trainers-slider .slick-next {
-  right: -10px;
 }
 
 #trainers-slider .slick-prev:before,
@@ -385,6 +373,7 @@ header nav ul li a {
   font-size: 1rem;
   letter-spacing: 0;
 }
+
 
 .personal-trainer-box {
   background: url('https://onclickwebdesign.com/wp-content/uploads/personal-trainer.jpg') top center no-repeat;
@@ -480,10 +469,6 @@ header nav ul li a {
 }
 .upcoming-classes-box{
   margin-bottom: 100px;
-}
-
-.table_font{
-  color: white;
 }
 
 #colorBackground{
